@@ -1,8 +1,10 @@
-import React from 'react';
-import Login from './pages/Login';
-
 function App() {
-  return <Login />;
+  return (
+    <div>
+      <h1>Smart Attendance System</h1>
+      <p>Frontend is working 🚀</p>
+    </div>
+  );
 }
 
 export default App;
